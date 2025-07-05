@@ -1,4 +1,5 @@
 # CGR-Guided Agricultural Data Imputation Methods
+#Publiahe research paper
 
 This repository contains the implementation of novel imputation methods for agricultural data with Crop Growth Rate (CGR) guidance. The methods include Enhanced GAIN, DLPIM, BRITS, and other traditional imputation techniques.
 
