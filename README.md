@@ -16,6 +16,8 @@ This research presents novel approaches to missing data imputation in agricultur
 - DEGAINImputer
 - EnhancedDLPIMImputer
 - BRITSWrapper
+- Missing_pattern_generation_sensor_alike
+- yield_prediction_after_imputation
 
 ## Installation
 
