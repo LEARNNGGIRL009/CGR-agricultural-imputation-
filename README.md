@@ -18,6 +18,7 @@ This research presents novel approaches to missing data imputation in agricultur
 - BRITSWrapper
 - Missing_pattern_generation_sensor_alike
 - yield_prediction_after_imputation
+- Multi_stage_yield_prediction
 
 ## Installation
 
